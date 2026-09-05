@@ -1,0 +1,23 @@
+{
+  "name": "Reliquary",
+  "background": "#14141A",
+  "foreground": "#F0E6D6",
+  "cursorColor": "#C9A24B",
+  "selectionBackground": "#201F24",
+  "black": "#14141A",
+  "red": "#5C1A2E",
+  "green": "#164D34",
+  "yellow": "#6B4A12",
+  "blue": "#1B3A66",
+  "purple": "#3D1E5C",
+  "cyan": "#1C5C56",
+  "white": "#F0E6D6",
+  "brightBlack": "#38383E",
+  "brightRed": "#E45D75",
+  "brightGreen": "#3EE0A0",
+  "brightYellow": "#E8C468",
+  "brightBlue": "#6FB3E0",
+  "brightPurple": "#B27EE8",
+  "brightCyan": "#7FE0D6",
+  "brightWhite": "#FFF8EC"
+}
