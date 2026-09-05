@@ -69,7 +69,7 @@ Issues and pull requests are welcome. Most changes are a matter of editing one o
 
 ## License
 
-MIT — matching [oh-my-posh](https://ohmyposh.dev)'s own licence, deliberately different from the Foundry's usual Apache 2.0 + Commons Clause default, so this theme stays as easy to use and redistribute as the tool it's built for. See [`LICENSE`](./LICENSE) for the full text.
+MIT — matching [oh-my-posh](https://ohmyposh.dev)'s own licence. See [`LICENSE`](./LICENSE) for the full text.
 
 ---
 
