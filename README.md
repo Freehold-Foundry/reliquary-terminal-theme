@@ -1,6 +1,6 @@
 # Reliquary Terminal Theme
 
-[![License](.github/badges/license-badge.svg)](./LICENSE)
+[![License: MIT](.github/badges/license-mit.svg)](./LICENSE)
 [![Status](.github/badges/status-stable.svg)](#)
 [![Built for Windows](.github/badges/tech-windows-built-for.svg)](#)
 
@@ -59,7 +59,7 @@ reliquary-terminal-theme/
   windows-terminal/
     reliquary.json           the terminal colour scheme
   .github/badges/            self-hosted README badges
-  LICENSE                    Apache 2.0, modified by the Commons Clause
+  LICENSE                    MIT — matches oh-my-posh's own licence
   README.md
 ```
 
@@ -69,7 +69,11 @@ Issues and pull requests are welcome. Most changes are a matter of editing one o
 
 ## License
 
-Free and source-available — not OSI-approved open source. Licensed under Apache 2.0, modified by the Commons Clause: you can read, use, and modify this theme freely; the Commons Clause condition restricts reselling the software itself. See [`LICENSE`](./LICENSE) for the full text.
+MIT — matching [oh-my-posh](https://ohmyposh.dev)'s own licence, deliberately different from the Foundry's usual Apache 2.0 + Commons Clause default, so this theme stays as easy to use and redistribute as the tool it's built for. See [`LICENSE`](./LICENSE) for the full text.
+
+---
+
+The `oh-my-posh` prompt theme in this repo is built for [oh-my-posh](https://ohmyposh.dev), created by **[Jan De Dobbeleer](https://github.com/JanDeDobbeleer)** ([ohmyposh.dev](https://ohmyposh.dev)).
 
 ---
 
